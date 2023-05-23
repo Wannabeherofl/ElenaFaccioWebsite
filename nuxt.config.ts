@@ -1,11 +1,7 @@
 export default defineNuxtConfig({
     modules: ['@nuxt/content'],
-    generate:{
-      nojekyll: true, //not working on this version
-      fallback: '404.html',
-    },
-    ssr: false, //When false
-    target: "static", // and static, nuxt generates a SPA
+    ssr: true, //server side rendered enabled //When true
+    target: "static", // and static, nuxt generates a hybrid static site
     app: {
       head: {
         link: [
