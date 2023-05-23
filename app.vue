@@ -5,5 +5,6 @@
     <WhyIDo />
     <Identity />
     <HeroPage />
+    <KnowYourself />
   </main>
 </template>
