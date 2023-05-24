@@ -2,7 +2,7 @@ export default defineNuxtConfig({
     modules: ['@nuxt/content'],
     ssr: true, //server side rendered enabled //When true
     target: "static", // and static, nuxt generates a hybrid static site
-    import: { projects } from "./utils/projectsData";
+    import: { projects } from "./utils/projectsData",
 
     export default {
       mode: "universal",
