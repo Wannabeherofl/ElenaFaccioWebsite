@@ -1,4 +1,5 @@
-import { projects } from "./utils/projectsData",
+import { defineNuxtConfig } from 'nuxt'
+
 export default defineNuxtConfig({
     modules: ['@nuxt/content'],
     mode: "universal",
@@ -12,7 +13,7 @@ export default defineNuxtConfig({
 
         return paths;
       }
-    }
+    },
     ssr: true, //server side rendered enabled //When true
     target: "static", // and static, nuxt generates a hybrid static site
     app: {
