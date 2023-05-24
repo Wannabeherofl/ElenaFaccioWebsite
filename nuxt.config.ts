@@ -1,19 +1,6 @@
-import { defineNuxtConfig } from 'nuxt'
-
 export default defineNuxtConfig({
     modules: ['@nuxt/content'],
     mode: "universal",
-    generate: {
-      async routes() {
-        const paths = [];
-
-        projects.forEach(project => {
-          paths.push(`/project/${project.slug}`);
-        });
-
-        return paths;
-      }
-    },
     ssr: true, //server side rendered enabled //When true
     target: "static", // and static, nuxt generates a hybrid static site
     app: {
