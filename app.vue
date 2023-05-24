@@ -4,7 +4,7 @@
     <WhatIDo />
     <WhyIDo />
     <Identity />
-    <HeroPage />
     <KnowYourself />
+    <HeroPage />
   </main>
 </template>
