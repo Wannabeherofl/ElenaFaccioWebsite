@@ -2,7 +2,7 @@
 
   <template>
       <header class="text-center bg-white dark:bg-black text-black dark:text-white sticky top-0 z-10">
-        <div class="flex mx-80 pt-16 pb-2">
+        <div class="flex mx-40 pt-16 pb-2">
               <nav class="flex h-16 Second-Font sm:block border-b-2 border-orange-300 space-x-8 text-2xl pr-6 pl-6" aria-label="main">
                 <a href="../index.html" 
                 class="link hover:opacity-90">
