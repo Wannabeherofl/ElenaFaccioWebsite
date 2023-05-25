@@ -1,4 +1,5 @@
 <template>
     <div>
+    <WhatIDo />
     </div>
-  </template>
+</template>
