@@ -2,7 +2,7 @@
 
 <template>
     <br>
-    <div class="flex flex-row place-content-center mb-12">
+    <div class="text-center mb-12">
         <div class="p-10 rounded-xl bg-[#9cf5bd] dark:bg-slate-900">
             <section>
                 <article>
