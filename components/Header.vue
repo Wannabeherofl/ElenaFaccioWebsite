@@ -9,9 +9,9 @@
               </NuxtLink>
               </nav>
               <nav class="flex h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" aria-label="main">
-                <a class="h-16 w-16" href="../about">
+                <NuxtLink class="h-16 w-16" href="../about">
                   About Me
-                </a>
+                </NuxtLink>
               </nav>
               <div>
                 <h1 class="Main-font text-7xl font-medium text-center pl-10 pr-10">Elena Faccio</h1>
