@@ -24,10 +24,10 @@
                 &#9776;
               </button>
                 <nav class="h-16 Second-Font hidden sm:block space-x-8 text-2xl pr-6 pl-6" aria-label="main">
-                  <a href="../Services.html" 
+                  <NuxtLink href="../services" 
                   class="link hover:opacity-90">
                   Services
-                  </a>
+                </NuxtLink>
                 </nav>
                 <nav class="h-16 Second-Font hidden sm:block space-x-8 text-2xl pr-6 pl-6" aria-label="main">
                   <a href="../Contact.html" class="h-16">
