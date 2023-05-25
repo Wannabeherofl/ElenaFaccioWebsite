@@ -6,6 +6,7 @@
     <Identity />
     <KnowYourself />
     <Info1 />
+    <Info2 />
     <HeroPage />
   </main>
 </template>
