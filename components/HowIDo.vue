@@ -2,8 +2,8 @@
 
 <template>
     <img src="../assets/HeadImage2.jpg" alt="headimages" class="sm:mb-32 pt-16" /> 
-    <div class="flex flex-row place-content-center gap-32">
-    <div class="max-w-lg p-10 rounded-xl bg-[#9cf5bd] dark:bg-slate-900">
+    <div class="text-center mb-12">
+        <div class="p-10 rounded-xl bg-[#9cf5bd] dark:bg-slate-900">
         <section>
             <article>
                 <h2 class="Third-font max-w-md text-4xl text-center sm:text-5xl sm:text-left text-slate-900 dark:text-white">
