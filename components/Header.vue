@@ -9,7 +9,7 @@
               </NuxtLink>
               </nav>
               <nav class="flex h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" aria-label="main">
-                <NuxtLink class="h-16 w-16" to="/about">
+                <NuxtLink class="h-16 w-16" to="/pages/about">
                   About Me
                 </NuxtLink>
               </nav>
