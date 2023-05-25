@@ -1,9 +1,10 @@
 <template>
-    <div class="dark:bg-black">
-      <Header />
-      <HeroPage />
-    </div>
-  </template>
-  <script setup>
-  
-  </script>
+  <div class="dark:bg-black">
+    <Header />
+    <Info1 />
+    <Info2 />
+  </div>
+</template>
+<script setup>
+
+</script>
