@@ -4,13 +4,13 @@
       <header class="text-center bg-white dark:bg-black text-black dark:text-white sticky top-0 z-10">
         <div class="flex mx-40 pt-16 pb-2">
               <nav class="flex h-16 Second-Font sm:block border-b-2 border-orange-300 space-x-8 text-2xl pr-6 pl-6" aria-label="main">
-                <a href="../index.html" 
+                <a href="../index.vue" 
                 class="link hover:opacity-90">
                 Home
                 </a>
               </nav>
               <nav class="flex h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" aria-label="main">
-                <a href="" class="h-16 w-16">
+                <a href="../AboutMe.vue" class="h-16 w-16">
                   About Me
                 </a>
               </nav>
