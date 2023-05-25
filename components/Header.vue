@@ -34,7 +34,7 @@
                   </a>
                 </nav>
             </div>
-          <hr class="dark:bg-white bg-black mx-auto">">
+          <hr class="dark:bg-slate-500 bg-black mx-auto">
       </header>
   </template>
   
