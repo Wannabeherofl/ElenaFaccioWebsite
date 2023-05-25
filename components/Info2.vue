@@ -6,7 +6,7 @@
         <div class="p-10 rounded-xl bg-[#9cf5bd] dark:bg-slate-900">
             <section>
                 <article>
-                    <h1 class="Third-fonttext-7xl text-center  text-slate-900 dark:text-white">
+                    <h1 class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
                         How do I do it?
                     </h1>
                     <br>
