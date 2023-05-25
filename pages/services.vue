@@ -1,9 +1,9 @@
 <template>
-  <div class="dark:bg-black">
+  <main class="dark:bg-black">
     <Header />
     <Info1 />
     <Info2 />
-  </div>
+  </main>
 </template>
 <script setup>
 
