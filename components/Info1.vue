@@ -13,7 +13,7 @@
                     <h2 class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
                         With those approaching digital    
                     </h2>
-                    <p class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
+                    <p class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
                         <li class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
                             With those who want to go online but don't know how to do it
                         </li>
@@ -29,7 +29,7 @@
                     <h2 class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
                         With those who want to do marketing
                     </h2>
-                    <p class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
+                    <p class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
                         <li class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
                             with those who would like to make a more structured or efficient marketing and communication plan
                         </li>

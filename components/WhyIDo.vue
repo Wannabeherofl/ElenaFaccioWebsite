@@ -8,13 +8,13 @@
                     <h2 class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
                         Perchè lo faccio?
                     </h2>
-                    <p class="text-7xl text-center  text-slate-900 dark:text-white">
+                    <p class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
                         95% <strong class="text-[#5bd086]">delle scelte</strong> di consumo sono prese in modo inconscio
                     </p>
-                    <p class="text-7xl text-center  text-slate-900 dark:text-white">
+                    <p class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
                         97% <strong class="text-orange-500">delle persone</strong> che sono consce della propria identità: vive più a lungo e meglio
                     </p>
-                    <p class="text-7xl text-center  text-slate-900 dark:text-white">
+                    <p class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
                         il nostro inconscio prende una decisione <strong class="text-[#5bd086]">7</strong> secondi prima di quando le formuliamo consciamente e circa dieci secondi prima di eseguirle
                     </p>
                 </article>
