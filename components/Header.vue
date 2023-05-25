@@ -14,7 +14,7 @@
                 </NuxtLink>
               </nav>
               <div>
-                <h1 class="Main-font text-7xl font-medium text-center pl-10 pr-10">Elena Faccio</h1>
+                <h1 class="tracking-tight Main-font text-7xl font-medium text-center pl-10 pr-10">Elena Faccio</h1>
                 <hr>
                 <div class="Second-Font text-center text-sm sm:text-2xl">
                 Strategies for <span class="text-[#5bd086] dark:text-[#90FFB9]">individuality</span> and effective <span class="text-orange-500 dark:text-orange-300">identity</span> communication
