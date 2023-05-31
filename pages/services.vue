@@ -3,6 +3,7 @@
     <Header />
     <Info1 />
     <Info2 />
+    <Info3 />
   </main>
 </template>
 <script setup>
