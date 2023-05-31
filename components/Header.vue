@@ -1,4 +1,16 @@
-  <script setup></script>
+  <script setup>
+  function handleClick(e) {
+        var curr = e.target.textContent;
+        var elem = document.querySelectorAll('#Clicker');
+        for (var i = 0; i < elem.length; i++) {
+            if (elem[i].textContent === curr) {
+                elem[i].className = 'active';
+            } else {
+                elem[i].className = '';
+            }
+        }
+    };
+  </script>
 
   <template>
       <header class="text-center bg-white dark:bg-black text-black dark:text-white sticky top-0 z-10">
@@ -41,16 +53,3 @@
   <style lang="scss">
   
 </style>
-<script setup="ts">
-  function handleClick(e) {
-        var curr = e.target.textContent;
-        var elem = document.querySelectorAll('#Clicker');
-        for (var i = 0; i < elem.length; i++) {
-            if (elem[i].textContent === curr) {
-                elem[i].className = 'active';
-            } else {
-                elem[i].className = '';
-            }
-        }
-    };
-</script>
