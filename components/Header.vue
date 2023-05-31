@@ -3,12 +3,12 @@
   <template>
       <header class="text-center bg-white dark:bg-black text-black dark:text-white sticky top-0 z-10">
         <div class="flex mx-40 pt-16 pb-2">
-              <nav class="Clicker active flex h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" onclick="myFunction(e)">
+              <nav class="Clicker active flex h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" onclick="myFunction(e)" aria-label="main">
               <NuxtLink class="link hover:opacity-90" to="/">
                 Home
               </NuxtLink>
               </nav>
-              <nav class="Clicker flex h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" onclick="myFunction(e)">
+              <nav class="Clicker flex h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" onclick="myFunction(e)" aria-label="main">
                 <NuxtLink href="../AboutMe" class="h-16 w-16 link hover:opacity-90">
                   About Me
                 </NuxtLink>
@@ -38,7 +38,10 @@
       </header>
   </template>
   
-  <style lang="ts">
+  <style lang="scss">
+  
+</style>
+<script setup="ts">
   function handleClick(e) {
         var curr = e.target.textContent;
         var elem = document.querySelectorAll('#Clicker');
@@ -50,4 +53,4 @@
             }
         }
     };
-</style>
+</script>
