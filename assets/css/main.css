@@ -23,7 +23,12 @@
   font-family: "Now-Font-Thin";
   letter-spacing: -3px;
 }
-.active {
+.router-link-active {
+  border: 2px;
+  border-color: chocolate;
+}
+
+.router-link-exact-active {
   border: 2px;
   border-color: chocolate;
 }
