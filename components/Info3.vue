@@ -9,7 +9,7 @@
                     <h1 class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
                         Skills
                     </h1>
-                    <img class="flex" src="../assets/graph.png" alt="graph"></img>
+                    <img class="flex" src="../assets/graph.png" alt="graph">
                     <br>
                     <h2 class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
                         These are the major skills as consultant:    
