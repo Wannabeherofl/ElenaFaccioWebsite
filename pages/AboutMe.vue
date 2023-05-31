@@ -1,8 +1,8 @@
 <template>
     <div class="dark:bg-black">
       <Header />
+      <Aboutmemain />
       <Elements />
-      <HeroPage />
     </div>
   </template>
   <script setup>
