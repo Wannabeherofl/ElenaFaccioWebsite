@@ -1,5 +1,5 @@
   <script setup>
-  function handleClick(e) {
+  function myFunction(e) {
         var curr = e.target.textContent;
         var elem = document.querySelectorAll('#Clicker');
         for (var i = 0; i < elem.length; i++) {
@@ -52,4 +52,4 @@
   
   <style lang="scss">
   
-</style>
+  </style>
