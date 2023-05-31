@@ -23,3 +23,7 @@
   font-family: "Now-Font-Thin";
   letter-spacing: -3px;
 }
+.active {
+  border: 2px;
+  border-color: chocolate;
+}

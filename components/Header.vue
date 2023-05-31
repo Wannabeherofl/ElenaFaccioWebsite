@@ -3,12 +3,12 @@
   <template>
       <header class="text-center bg-white dark:bg-black text-black dark:text-white sticky top-0 z-10">
         <div class="flex mx-40 pt-16 pb-2">
-              <nav class="flex h-16 Second-Font sm:block border-b-2 border-orange-300 space-x-8 text-2xl pr-6 pl-6" aria-label="main">
+              <nav class="Clicker flex h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" aria-label="main">
               <NuxtLink class="link hover:opacity-90" to="/">
                 Home
               </NuxtLink>
               </nav>
-              <nav class="flex h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" aria-label="main">
+              <nav class="Clicker flex h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" aria-label="main">
                 <NuxtLink href="../AboutMe" class="h-16 w-16 link hover:opacity-90">
                   About Me
                 </NuxtLink>
@@ -23,12 +23,12 @@
               <button id="mobile-open-button" class="text-3xl sm:hidden focus:outline-none">
                 &#9776;
               </button>
-                <nav class="h-16 Second-Font hidden sm:block space-x-8 text-2xl pr-6 pl-6" aria-label="main">
+                <nav class="Clicker h-16 Second-Font hidden sm:block space-x-8 text-2xl pr-6 pl-6" aria-label="main">
                   <NuxtLink href="../services" class="link hover:opacity-90">
                   Services
                 </NuxtLink>
                 </nav>
-                <nav class="h-16 Second-Font hidden sm:block space-x-8 text-2xl pr-6 pl-6" aria-label="main">
+                <nav class="Clicker h-16 Second-Font hidden sm:block space-x-8 text-2xl pr-6 pl-6" aria-label="main">
                   <a href="../Contact.html" class="h-16">
                     Contact
                   </a>
@@ -38,4 +38,16 @@
       </header>
   </template>
   
-  <style lang="scss"></style>
+  <style lang="ts">
+  function handleClick(e) {
+        var curr = e.target.textContent;
+        var elem = document.querySelectorAll('#Clicker');
+        for (var i = 0; i < elem.length; i++) {
+            if (elem[i].textContent === curr) {
+                elem[i].className = 'active';
+            } else {
+                elem[i].className = '';
+            }
+        }
+    };
+</style>
