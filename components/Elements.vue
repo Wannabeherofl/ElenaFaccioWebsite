@@ -8,25 +8,25 @@
         <h2 class="Third-font text-4xl font-bold text-center sm:text-5xl mb-6 text-slate-900 dark:text-white">
             the elements im made of / the elements of my individuality
         </h2>
-        <ul class="list-none mx-auto mt-12 flex flex-col sm:flex-row items-center gap-8">
+        <ul class="list-none mx-auto mt-12 flex flex-col sm:flex-row items-center">
           <li class="w-60 flex flex-col items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-slate-900 py-1 px-1 rounded">
             <img class="mb-6 rounded" src="../assets/F.png" alt="Camilla">
-            <h3 class="Second-Font text-3xl text-center text-slate-900 dark:text-white">Focused</h3>
+            <h3 class="Second-Font text-2xl text-center text-slate-900 dark:text-white">Focused</h3>
           </li>
           <li class="w-60 flex flex-col items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-slate-900 py-1 px-1 rounded">
             <img class="mb-6 rounded" src="../assets/Ac.png" alt="Zelda">
-            <h3 class="Second-Font text-3xl text-center text-slate-900 dark:text-white">Accountable</h3>
+            <h3 class="Second-Font text-2xl text-center text-slate-900 dark:text-white">Accountable</h3>
           </li>
           <li class="w-60 flex flex-col items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-slate-900 py-1 px-1 rounded">
             <img class="mb-6 rounded" src="../assets/C.png" alt="Camilla">
-            <h3 class="Second-Font text-3xl text-center text-slate-900 dark:text-white">Creative</h3>          </li>
+            <h3 class="Second-Font text-2xl text-center text-slate-900 dark:text-white">Creative</h3>          </li>
           <li class="w-60 flex flex-col items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-slate-900 py-1 px-1 rounded">
             <img class="mb-6 rounded" src="../assets/I.png" alt="Camilla">
-            <h3 class="Second-Font text-3xl text-center text-slate-900 dark:text-white">Informed</h3>
+            <h3 class="Second-Font text-2xl text-center text-slate-900 dark:text-white">Informed</h3>
             </li>
           <li class="w-60 flex flex-col items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-slate-900 py-1 px-1 rounded">
             <img class="mb-6 rounded" src="../assets/O.png" alt="Camilla">
-            <h3 class="Second-Font text-3xl text-center text-slate-900 dark:text-white">Opened</h3>
+            <h3 class="Second-Font text-2xl text-center text-slate-900 dark:text-white">Opened</h3>
             </li>
         </ul>
         <div class="pt-5 flex items-center text-center gap-8 Second-Font text-2xl text-slate-700 dark:text-slate-400">
