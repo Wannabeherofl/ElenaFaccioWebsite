@@ -1,8 +1,8 @@
 <template>
     <div class="dark:bg-black">
+      <Elements />
       <Header />
       <Aboutmemain />
-      <Elements />
     </div>
   </template>
   <script setup>
