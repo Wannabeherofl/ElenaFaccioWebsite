@@ -31,4 +31,5 @@
 .router-link-exact-active {
   border: 2px;
   border-color: chocolate;
+  color: chocolate;
 }
