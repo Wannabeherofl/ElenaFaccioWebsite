@@ -9,22 +9,22 @@
             the elements im made of / the elements of my individuality
         </h2>
         <ul class="list-none mx-auto mt-12 flex flex-col sm:flex-row items-center">
-          <li class="w-60 flex flex-col items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-slate-900 py-1 px-1 rounded">
+          <li class="w-60 flex flex-col items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-[#121212] py-1 px-1 rounded">
             <img class="mb-6 rounded" src="../assets/F.png" alt="Camilla">
             <h3 class="Second-Font text-2xl text-center text-slate-900 dark:text-white">Focused</h3>
           </li>
-          <li class="w-60 flex flex-col items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-slate-900 py-1 px-1 rounded">
+          <li class="w-60 flex flex-col items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-[#121212] py-1 px-1 rounded">
             <img class="mb-6 rounded" src="../assets/Ac.png" alt="Zelda">
             <h3 class="Second-Font text-2xl text-center text-slate-900 dark:text-white">Accountable</h3>
           </li>
-          <li class="w-60 flex flex-col items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-slate-900 py-1 px-1 rounded">
+          <li class="w-60 flex flex-col items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-[#121212] py-1 px-1 rounded">
             <img class="mb-6 rounded" src="../assets/C.png" alt="Camilla">
             <h3 class="Second-Font text-2xl text-center text-slate-900 dark:text-white">Creative</h3>          </li>
-          <li class="w-60 flex flex-col items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-slate-900 py-1 px-1 rounded">
+          <li class="w-60 flex flex-col items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-[#121212] py-1 px-1 rounded">
             <img class="mb-6 rounded" src="../assets/I.png" alt="Camilla">
             <h3 class="Second-Font text-2xl text-center text-slate-900 dark:text-white">Informed</h3>
             </li>
-          <li class="w-60 flex flex-col items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-slate-900 py-1 px-1 rounded">
+          <li class="w-60 flex flex-col items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-[#121212] py-1 px-1 rounded">
             <img class="mb-6 rounded" src="../assets/O.png" alt="Camilla">
             <h3 class="Second-Font text-2xl text-center text-slate-900 dark:text-white">Opened</h3>
             </li>

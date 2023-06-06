@@ -3,7 +3,7 @@
 <template>
     <br>
     <div class="text-center mb-12">
-        <div class="p-10 rounded-xl bg-[#9cf5bd] dark:bg-slate-900">>
+        <div class="p-10 rounded-xl bg-[#121212] dark:bg-[#121212]">>
             <section>
                 <article>
                     <h1 class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
