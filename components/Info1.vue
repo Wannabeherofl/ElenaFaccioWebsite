@@ -3,14 +3,14 @@
 <template>
     <br>
     <div class="text-center mb-12">
-        <div class="p-10 rounded-xl bg-[#9cf5bd] dark:bg-slate-900">>
+        <div class="p-10 rounded-xl bg-[#9cf5bd] dark:bg-gray-900">
             <section>
                 <article>
-                    <h1 class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
+                    <h1 class="Third-font text-7xl text-center text-slate-900 dark:text-white">
                         Who do I do it with?
                     </h1>
                     <br>
-                    <h2 class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
+                    <h2 class="Third-font text-7xl text-center text-slate-900 dark:text-white">
                         With those approaching digital    
                     </h2>
                     <p class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
@@ -26,7 +26,6 @@
                         <br>
                     </p>
                     <br>
-                    <h2 class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
                         With those who want to do marketing
                     </h2>
                     <p class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
@@ -39,14 +38,12 @@
                         <li class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
                             with those who want to develop their strategy themselves, but want support with small software tips, contacts with professionals for specific activities, or an outside perspective                        </li>
                         <br>
-                        <h2 class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
                             why call me for a project /<br>
                             why make me your consultant /<br> 
                             how can i help you with /<br> 
                             which goal i can help you with<br>
                         </h2>
                         <br>
-                        <h2 class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
                             With those who want to get the most out of
                         </h2>
                         <li class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
