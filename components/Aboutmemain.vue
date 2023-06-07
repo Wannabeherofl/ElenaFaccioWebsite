@@ -12,7 +12,7 @@
           <h2 class="Third-font max-w-md text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
             Elena Faccio 
           </h2>
-          <p class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-slate-400">
+          <p class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">
             Hi there! My name is [Your Name] and I am a [silly girl]. I am passionate about [Blah Blah] and enjoy working on [Work].
             In my free time, I enjoy [Hobbies/Interests]. I also love to travel and explore new places.
           </p>
@@ -25,7 +25,7 @@
           <h2 class="Third-font max-w-auto text-4xl font-bold text-center sm:text-5xl sm:text-left text-slate-900 dark:text-white">
             Zelda And Camilla
           </h2>
-          <p class="Second-Font max-w-md text-2xl mt-4 ml-14 text-center sm:text-left text-slate-700 dark:text-slate-400">
+          <p class="Second-Font max-w-md text-2xl mt-4 ml-14 text-center sm:text-left text-slate-700 dark:text-white">
             Who Restlessly Help Me
           </p>
         </article>
@@ -38,7 +38,7 @@
           <h2 class="Third-font max-w-auto text-4xl font-bold text-center sm:text-5xl sm:text-left text-slate-900 dark:text-white">
             Hobbies
           </h2>
-          <p class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-slate-400">
+          <p class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">
             I am a passionate book lover, enjoying Aikido, and regularly practice meditation and yoga, while also enjoying playing JRPG video games in my free time. I love to engage in manual activities such as embroidery, furniture renovating, gardening, and cooking. Additionally, I make it a point to travel and visit at least one new place every year, and I am accompanied by my two beloved kittens.
           </p>
         </article>

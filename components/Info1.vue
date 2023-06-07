@@ -5,7 +5,7 @@
     <div class="text-center mb-12">
         <div class="p-10 rounded-xl bg-[#121212] dark:bg-[#121212]">
             <section>
-                <article>
+                <article class="Second-Font">
                     <h1 class="Third-font text-7xl text-center text-slate-900 dark:text-white">
                         Who do I do it with?
                     </h1>
@@ -13,14 +13,14 @@
                     <h2 class="Third-font text-7xl text-center text-slate-900 dark:text-white">
                         With those approaching digital    
                     </h2>
-                    <p class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
+                    <p class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
+                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
                             With those who want to go online but don't know how to do it
                         </li>
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
+                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
                             With those who are already on social media but can't reach their goals
                         </li>
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
+                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
                             With those who think these changes take up too much time and energy to work
                         </li>
                         <br>
@@ -29,14 +29,14 @@
                     <h2>
                         With those who want to do marketing
                     </h2>
-                    <p class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
+                    <p class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
+                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
                             with those who would like to make a more structured or efficient marketing and communication plan
                         </li>
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
+                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
                             with those who want to add a dash of innovation in their processes
                         </li>
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
+                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
                             with those who want to develop their strategy themselves, but want support with small software tips, contacts with professionals for specific activities, or an outside perspective                        </li>
                         <br>
                         <h2>
@@ -49,13 +49,13 @@
                         <h2>
                             With those who want to get the most out of
                         </h2>
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
+                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
                             with those who would like to optimize the energy they are already investing in digital
                         </li>
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
+                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
                             with those who would like to expand the social media they are already using 
                         </li>
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-slate-400">
+                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
                             with those who would like to improve the strategies they are already applying
                         </li>
                     </p>

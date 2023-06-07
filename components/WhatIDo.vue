@@ -5,7 +5,7 @@
     <div class="text-center mb-12">
         <div class="p-10 bg-[#121212] dark:bg-[#121212]">
         <section>
-            <article>
+            <article class="Second-Font">
                 <h2 class="Third-font text-7xl text-center  text-slate-900 dark:text-white">
                 Cosa Faccio
             </h2>
