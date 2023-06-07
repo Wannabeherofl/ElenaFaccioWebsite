@@ -14,14 +14,15 @@
 
 .Main-font {
   font-family: "Now-Font-Thin";
-  letter-spacing: -8px;
+  letter-spacing: -6px;
 }
 .Second-Font {
   font-family: "Bubble";
 }
 .Third-font {
   font-family: "Now-Font-Thin";
-  letter-spacing: -3px;
+  font-size: medium;
+  letter-spacing: -8px;
 }
 .router-link-active {
   border: 2px;
