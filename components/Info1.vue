@@ -26,7 +26,7 @@
                         <br>
                     </p>
                     <br>
-                    <h2>
+                    <h2 class="Third-font text-7xl text-center text-slate-900 dark:text-white">
                         With those who want to do marketing
                     </h2>
                     <p class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
@@ -39,7 +39,7 @@
                         <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
                             with those who want to develop their strategy themselves, but want support with small software tips, contacts with professionals for specific activities, or an outside perspective                        </li>
                         <br>
-                        <h2>
+                        <h2 class="Third-font text-7xl text-center text-slate-900 dark:text-white">
                             why call me for a project /<br>
                             why make me your consultant /<br> 
                             how can i help you with /<br> 
