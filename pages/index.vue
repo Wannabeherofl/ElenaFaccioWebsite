@@ -3,6 +3,7 @@
     <Header />
     <HomeInfo />
     <WhatIDo />
+    <WhatIDo />
     <WhyIDo />
     <Identity />
     <KnowYourself />
