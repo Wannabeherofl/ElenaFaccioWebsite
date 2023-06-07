@@ -1,9 +1,8 @@
 <template>
   <div class="dark:bg-black">
     <Header />
+    <HeadImage />
     <HomeInfo />
-    <WhatIDo />
-    <WhatIDo />
     <WhyIDo />
     <Identity />
     <KnowYourself />
