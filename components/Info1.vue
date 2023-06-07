@@ -6,11 +6,11 @@
         <div class="p-10 rounded-xl bg-[#121212] dark:bg-[#121212]">
             <section>
                 <article class="Second-Font">
-                    <h1 class="Third-font max-w-md text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
+                    <h1 class="Third-font text-4xl font-bold text-center sm:text-5xl mb-6 text-slate-900 dark:text-white">
                         Who do I do it with?
                     </h1>
                     <br>
-                    <h2 class="Third-font max-w-md text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
+                    <h2 class="Third-font text-4xl font-bold text-center sm:text-5xl mb-6 text-slate-900 dark:text-white">
                         With those approaching digital    
                     </h2>
                     <p class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
@@ -39,7 +39,7 @@
                         <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
                             with those who want to develop their strategy themselves, but want support with small software tips, contacts with professionals for specific activities, or an outside perspective                        </li>
                         <br>
-                        <h2 class="Third-font max-w-md text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
+                        <h2 class="Third-font text-4xl font-bold text-center sm:text-5xl mb-6 text-slate-900 dark:text-white">
                             why call me for a project /<br>
                             why make me your consultant /<br> 
                             how can i help you with /<br> 
