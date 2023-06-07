@@ -1,4 +1,5 @@
 <script setup>
+
 </script>
 <template>
     <main class="max-4-4xl mx-auto">
