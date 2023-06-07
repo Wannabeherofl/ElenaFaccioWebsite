@@ -1,3 +1,5 @@
+<script setup>
+</script>
 <template>
     <main class="max-4-4xl mx-auto">
       <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8 mb-12">
