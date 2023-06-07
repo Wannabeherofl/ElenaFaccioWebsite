@@ -21,8 +21,7 @@
 }
 .Third-font {
   font-family: "Now-Font-Thin";
-  font-size: medium;
-  letter-spacing: -8px;
+  letter-spacing: -3px;
 }
 .router-link-active {
   border: 2px;
