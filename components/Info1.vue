@@ -16,9 +16,9 @@
           </h2>
           <p class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">
             <ul>
-              <li>With those who want to go online but don't know how to do it</li>
-              <li>With those who are already on social media but can't reach their goals</li>
-              <li>With those who think these changes take up too much time and energy to work</li>
+              <li class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">With those who want to go online but don't know how to do it</li>
+              <li class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">With those who are already on social media but can't reach their goals</li>
+              <li class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">With those who think these changes take up too much time and energy to work</li>
             </ul>
           </p>
           <h2 class="Third-font max-w-md text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
@@ -26,9 +26,9 @@
           </h2>
           <p class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">
             <ul>
-              <li>with those who would like to make a more structured or efficient marketing and communication plan</li>
-              <li>with those who want to add a dash of innovation in their processes</li>
-              <li>with those who want to develop their strategy themselves, but want support with small software tips, contacts with professionals for specific activities, or an outside perspective</li>
+              <li class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">with those who would like to make a more structured or efficient marketing and communication plan</li>
+              <li class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">with those who want to add a dash of innovation in their processes</li>
+              <li class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">with those who want to develop their strategy themselves, but want support with small software tips, contacts with professionals for specific activities, or an outside perspective</li>
             </ul>
           </p>
           <h2 class="Third-font max-w-md text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
@@ -42,9 +42,9 @@
           </h2>
           <p class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">
             <ul>
-              <li>with those who would like to optimize the energy they are already investing in digital</li>
-              <li>with those who would like to expand the social media they are already using</li>
-              <li>with those who would like to improve the strategies they are already applying</li>
+              <li class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">with those who would like to optimize the energy they are already investing in digital</li>
+              <li class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">with those who would like to expand the social media they are already using</li>
+              <li class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">with those who would like to improve the strategies they are already applying</li>
             </ul>
           </p>
         </article>
