@@ -1,8 +1,7 @@
 <template>
     <div class="dark:bg-black">
       <Header />
-      <Elements />
-      <Aboutmemain />
+      <ContactInfo />
     </div>
   </template>
   <script setup>
