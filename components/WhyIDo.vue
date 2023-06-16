@@ -4,13 +4,13 @@
     <main class="max-4-4xl mx-auto">
       <hr class="mx-auto bg-white dark:bg-black w-1/2">
       <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8">
+        <p class="flex Third-font max-w-2xl text-3xl mt-4 text-center sm:text-left text-orange-500 dark:text-white">
+            <strong>95%</strong>
+          </p>
         <article>
           <h2 class="Third-font max-w-2xl text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
             Perchè lo faccio?
           </h2>
-          <p class="flex Third-font max-w-2xl text-3xl mt-4 text-center sm:text-left text-orange-500 dark:text-white">
-            <strong>95%</strong>
-          </p>
           <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">
             delle scelte di consumo sono prese in modo inconscio
           </p>
