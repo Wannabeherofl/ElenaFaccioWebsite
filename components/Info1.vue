@@ -27,6 +27,11 @@
             </li>
             </ul>
           </p>
+        </article>
+      </section>
+      <hr class="mx-auto bg-white dark:bg-black w-1/2  mb-12">
+      <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8 mb-12">
+        <article>
           <h2 class="Third-font max-w-md text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
             With those who want to do marketing
           </h2>
@@ -37,6 +42,11 @@
               <li class="Second-Font max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">with those who want to develop their strategy themselves, but want support with small software tips, contacts with professionals for specific activities, or an outside perspective</li>
             </ul>
           </p>
+        </article>
+      </section>
+      <hr class="mx-auto bg-white dark:bg-black w-1/2  mb-12">
+      <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8 mb-12">
+        <article>
           <h2 class="Third-font max-w-md text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
             why call me for a project /<br>
             why make me your consultant /<br> 
