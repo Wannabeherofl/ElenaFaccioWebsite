@@ -52,9 +52,9 @@ useHead({
                 </NuxtLink>
                 </nav>
                 <nav id="Clicker" class="h-16 Second-Font hidden sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
-                  <a href="../Contact" class="h-16">
+                  <NuxtLink href="../Contact" class="link hover:opacity-90">
                     Contact
-                  </a>
+                  </NuxtLink>
                 </nav>
             </div>
           <hr class="dark:bg-slate-500 bg-black mx-auto">
