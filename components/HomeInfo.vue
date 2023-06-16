@@ -4,7 +4,7 @@
 <template>
     <main class="max-4-4xl mx-auto">
       <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8 mb-12">
-        <svg class="mb-6 h-72 w-auto" xmlns="http://www.w3.org/2000/svg"
+        <svg class="mb-6 h-auto w-auto" xmlns="http://www.w3.org/2000/svg"
           width="82.5502mm" height="82.5502mm"
           viewBox="0 0 325 325">
           <path id="Selection"
