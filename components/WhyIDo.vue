@@ -11,7 +11,7 @@
         </article>
       </section>
       <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8">
-        <p class="flex Third-font max-w-2xl text-4xl mt-4 text-center sm:text-left text-orange-500">
+        <p class="flex Third-font max-w-2xl text-4xl mt-4 text-center sm:text-left text-[#fdba74]">
             <strong>95%</strong>
         </p>
         <article>
@@ -21,7 +21,7 @@
         </article>
       </section>
       <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8">
-        <p class="flex Third-font max-w-2xl text-4xl mt-4 text-center sm:text-left text-orange-500">
+        <p class="flex Third-font max-w-2xl text-4xl mt-4 text-center sm:text-left text-[#fdba74]">
             <strong>97%</strong>
           </p>
         <article>

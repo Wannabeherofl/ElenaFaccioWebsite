@@ -25,11 +25,11 @@
 }
 .router-link-active {
   border: 2px;
-  border-color: #fb923c;
+  border-color: #fdba74;
 }
 
 .router-link-exact-active {
   border: 2px;
-  border-color: #fb923c;
-  color: #fb923c;
+  border-color: #fdba74;
+  color: #fdba74;
 }
