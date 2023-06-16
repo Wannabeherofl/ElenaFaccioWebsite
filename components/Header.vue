@@ -24,7 +24,7 @@ useHead({
 </script>
 
   <template>
-      <header class="text-center bg-white dark:bg-black text-black dark:text-white sticky top-0 z-10">
+      <header class="bg-white dark:bg-black text-black dark:text-white sticky top-0 z-10 flex flex-col-reverse justify-center sm:flex-row items-center">
         <div class="flex mx-40 pt-16 pb-2">
               <nav id="Clicker" class="active flex h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
               <NuxtLink class="link hover:opacity-90" to="/">
