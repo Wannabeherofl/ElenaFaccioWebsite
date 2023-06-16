@@ -4,8 +4,8 @@
 </script>
 <template>
     <main class="max-4-4xl mx-auto">
-      <hr class="mx-auto bg-white dark:bg-black w-1/2">
-      <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8">
+      <hr class="mx-auto bg-white dark:bg-black w-1/2  mb-12">
+      <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center mb-12">
         <article>
             <h2 class="Third-font max-w-2xl text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
                 skills direct behaviour for a known situation, but when you get into unknown situation, uncertain situation, we lean on our attributes. identity 
