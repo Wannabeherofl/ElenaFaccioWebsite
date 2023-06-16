@@ -9,7 +9,7 @@
      width="82.5502mm" height="82.5502mm"
      viewBox="0 0 325 325">
   <path id="Selection"
-        fill="none" stroke="black" stroke-width="1"
+        fill="#90FFB9" stroke="black" stroke-width="3"
         d="M 137.00,2.53
            C 141.30,1.83 145.65,1.95 150.00,2.00
              169.97,2.24 187.83,22.13 186.96,42.00
