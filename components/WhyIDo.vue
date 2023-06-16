@@ -7,6 +7,7 @@
         <h2 class="Third-font max-w-2xl text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
             Perchè lo faccio?
         </h2>
+        <br>
         <p class="flex Third-font max-w-2xl text-3xl mt-4 text-center sm:text-left text-orange-500 dark:text-white">
             <strong>95%</strong>
         </p>
@@ -15,6 +16,7 @@
             delle scelte di consumo sono prese in modo inconscio
           </p>
         </article>
+        <br>
         <p class="flex Third-font max-w-2xl text-3xl mt-4 text-center sm:text-left text-orange-500 dark:text-white">
             <strong>97%</strong>
           </p>
