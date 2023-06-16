@@ -20,7 +20,7 @@
             Phone Number
           </h2>
           <p class="ml-6 max-w-2xl text-3xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">
-            <a>+39 (346) 758-7566</a>
+            <a>+39 346 7587566</a>
           </p>
         </article>
       </section>
