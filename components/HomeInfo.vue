@@ -4,11 +4,11 @@
 <template>
     <main class="max-4-4xl mx-auto">
       <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8 mb-12">
-        <svg class="mb-6 h-72 rounded-full w-auto" xmlns="http://www.w3.org/2000/svg"
+        <svg class="mb-6 h-72 w-auto" xmlns="http://www.w3.org/2000/svg"
           width="82.5502mm" height="82.5502mm"
           viewBox="0 0 325 325">
           <path id="Selection"
-            fill="#90FFB9" stroke="black" stroke-width="6"
+            fill="#90FFB9" stroke="black" stroke-width="8"
             d="M 137.00,2.53
               C 141.30,1.83 145.65,1.95 150.00,2.00
                 169.97,2.24 187.83,22.13 186.96,42.00
@@ -43,7 +43,7 @@
                 52.00,186.96 42.00,188.00 42.00,188.00
                 32.39,188.11 11.42,192.09 4.00,190.00 Z" />
             <path id="Selection"
-            fill="orange" stroke="black" stroke-width="6"
+            fill="orange" stroke="black" stroke-width="8"
             d="M 161.00,244.00
               C 161.57,249.11 153.69,258.20 151.00,263.00
                 158.66,260.21 169.06,259.67 175.98,264.65
