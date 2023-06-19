@@ -27,12 +27,12 @@ useHead({
       <header class="bg-white dark:bg-black text-black dark:text-white sticky top-0 z-10 flex flex-col-reverse justify-center items-center">
         <div class="flex mx-40 pt-16 pb-2">
               <nav id="Clicker" class="active flex h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
-              <NuxtLink class="link hover:opacity-90" to="/">
+              <NuxtLink class="link hover:opacity-90 lg:hidden" to="/">
                 Home
               </NuxtLink>
               </nav>
               <nav id="Clicker" class="flex h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
-                <NuxtLink href="../AboutMe" class="h-16 w-16 link hover:opacity-90">
+                <NuxtLink href="../AboutMe" class="h-16 w-16 link hover:opacity-90 lg:hidden">
                   About Me
                 </NuxtLink>
               </nav>
@@ -47,12 +47,12 @@ useHead({
                 &#9776;
               </button>
                 <nav id="Clicker" class="h-16 Second-Font hidden sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
-                  <NuxtLink href="../services" class="link hover:opacity-90">
+                  <NuxtLink href="../services" class="link hover:opacity-90 lg:hidden">
                   Services
                 </NuxtLink>
                 </nav>
                 <nav id="Clicker" class="h-16 Second-Font hidden sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
-                  <NuxtLink href="../Contact" class="link hover:opacity-90">
+                  <NuxtLink href="../Contact" class="link hover:opacity-90 lg:hidden">
                     Contact
                   </NuxtLink>
                 </nav>
