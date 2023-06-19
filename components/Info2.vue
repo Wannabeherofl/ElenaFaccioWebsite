@@ -14,15 +14,11 @@
                         Innovating    
                     </h2>
                     <p class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
                             Business Identity communication strategies
-                        </li>
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
+                        <br>
                             Business Strategies
-                        </li>
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
+                        <br>
                             Designing Digitization Pathways
-                        </li>
                         <br>
                     </p>
                     <br>
@@ -30,34 +26,25 @@
                         teaching
                     </h2>
                     <p class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
+                        <br>
                             social/digital education 
-                        </li>
-                        <li class=" text-2xl mt-4 text-center text-slate-700 dark:text-white">
+                       <br>
                             Platform analysis
-                        </li>
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
+                        <br>
                             Provide guidelines for the use of key marketing tools
-                        </li>
                         <br>
                         <h2 class="Third-font text-4xl font-bold text-center sm:text-5xl mb-6 text-slate-900 dark:text-white">
                             Marketing
                         </h2>
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
                             Marketing analysis and activities
-                        </li>
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
+                        <br>
                             Communication strategy development
-                        </li>
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
+                        <br>
                             Access to my network of professionals
-                        </li>
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
+                        <br>
                             Tailored back-office services
-                        </li>
-                        <li class="text-2xl mt-4 text-center text-slate-700 dark:text-white">
+                        <br>
                             Project manager for site, logo and product renewal
-                        </li>
                     </p>
                 </article>
             </section>
