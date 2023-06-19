@@ -27,12 +27,12 @@ useHead({
       <header class="bg-white dark:bg-black text-black dark:text-white sticky top-0 z-10 flex flex-col-reverse justify-center items-center">
         <div class="flex mx-40 pt-16 pb-2">
               <nav id="Clicker" class="active flex h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
-              <NuxtLink class="link hover:opacity-90 sm:max-sm:hidden" to="/">
+              <NuxtLink class="link hover:opacity-90" to="/">
                 Home
               </NuxtLink>
               </nav>
-              <nav id="Clicker" class="flex h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
-                <NuxtLink href="../AboutMe" class="h-16 w-16 link hover:opacity-90 sm:max-sm:hidden">
+              <nav id="Clicker" class="h-16 Second-Font hidden sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
+                <NuxtLink href="../AboutMe" class="h-16 w-16 link hover:opacity-90">
                   About Me
                 </NuxtLink>
               </nav>
@@ -43,16 +43,16 @@ useHead({
                 Strategies for <span class="text-[#5bd086] dark:text-[#90FFB9]">individuality</span> and effective <span class="text-orange-300 dark:text-orange-300">identity</span> communication
                 </div>
               </div>
-              <button id="mobile-open-button" class="text-3xl sm:max-sm:hidden focus:outline-none">
+              <button id="mobile-open-button" class="text-3xl focus:outline-none">
                 &#9776;
               </button>
                 <nav id="Clicker" class="h-16 Second-Font hidden sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
-                  <NuxtLink href="../services" class="link hover:opacity-90 sm:max-sm:hidden">
+                  <NuxtLink href="../services" class="link hover:opacity-90">
                   Services
                 </NuxtLink>
                 </nav>
                 <nav id="Clicker" class="h-16 Second-Font hidden sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
-                  <NuxtLink href="../Contact" class="link hover:opacity-90 sm:max-sm:hidden">
+                  <NuxtLink href="../Contact" class="link hover:opacity-90">
                     Contact
                   </NuxtLink>
                 </nav>
