@@ -13,12 +13,10 @@
           <h2 class="Third-font max-w-2xl text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
             With those approaching digital
           </h2>
-          <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">
-                With those who want to go online but don't know how to do it
-            <br>
-                With those who are already on social media but can't reach their goals
-            <br>>
-                With those who think these changes take up too much time and energy to work
+          <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
+            With those who want to go online but don't know how to do it
+            <br>With those who are already on social media but can't reach their goals
+            <br>With those who think these changes take up too much time and energy to work
           </p>
         </article>
       </section>
@@ -28,7 +26,7 @@
           <h2 class="Third-font max-w-2xl text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
             With those who want to do marketing
           </h2>
-          <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">
+          <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
               with those who would like to make a more structured or efficient marketing and communication plan<br>
               with those who want to add a dash of innovation in their processes<br>
               with those who want to develop their strategy themselves, but want support with small software tips, contacts with professionals for specific activities, or an outside perspective<br>
@@ -47,7 +45,7 @@
           <h2 class="Third-font max-w-2xl text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
             With those who want to get the most out of
           </h2>
-          <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:text-left text-slate-700 dark:text-white">
+          <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
             with those who would like to optimize the energy they are already investing in digital<br>
             with those who would like to expand the social media they are already using<br>
             with those who would like to improve the strategies they are already applying<br>
