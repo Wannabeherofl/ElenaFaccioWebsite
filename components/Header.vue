@@ -43,17 +43,6 @@ useHead({
                 Strategies for <span class="text-[#5bd086] dark:text-[#90FFB9]">individuality</span> and effective <span class="text-orange-300 dark:text-orange-300">identity</span> communication
                 </div>
               </div>
-              <div class="topnav">
-                <a href="#home" class="active">Logo</a>
-                <div id="myLinks">
-                  <a href="#news">News</a>
-                  <a href="#contact">Contact</a>
-                  <a href="#about">About</a>
-                </div>
-                <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-                  <i class="fa fa-bars"></i>
-                </a>
-              </div>
                 <nav id="Clicker" class="h-16 Second-Font hidden sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
                   <NuxtLink href="../services" class="link hover:opacity-90">
                   Services
@@ -64,6 +53,17 @@ useHead({
                     Contact
                   </NuxtLink>
                 </nav>
+                <div class="topnav sm:hidden">
+                <a href="#home" class="active">Logo</a>
+                <div id="myLinks">
+                  <a href="#news">News</a>
+                  <a href="#contact">Contact</a>
+                  <a href="#about">About</a>
+                </div>
+                <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                  <i class="fa fa-bars"></i>
+                </a>
+              </div>
             </div>
           <hr class="dark:bg-slate-500 bg-black mx-auto">
       </header>
