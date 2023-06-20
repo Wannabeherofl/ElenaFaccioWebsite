@@ -43,9 +43,6 @@ useHead({
                 Strategies for <span class="text-[#5bd086] dark:text-[#90FFB9]">individuality</span> and effective <span class="text-orange-300 dark:text-orange-300">identity</span> communication
                 </div>
               </div>
-              <button id="mobile-open-button" class="sticky block sm:hidden text-3xl focus:outline-none">
-                &#9776;
-              </button>
                 <nav id="Clicker" class="h-16 Second-Font hidden sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
                   <NuxtLink href="../services" class="link hover:opacity-90">
                   Services
