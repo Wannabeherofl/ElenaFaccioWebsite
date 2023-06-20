@@ -8,24 +8,15 @@
             Perchè lo faccio?
           </h2>
         <div class="vl"></div>
-        <p class="flex Third-font max-w-2xl text-4xl mt-4 text-center sm:flex-row text-[#fdba74]">
-            <strong>95%</strong>
-        </p>
         <article>
           <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
-            delle scelte di consumo sono prese in modo inconscio
+            <div class="Third-font">95% </div>delle scelte di consumo sono prese in modo inconscio
           </p>
-        </article>
-        <br>
-        <p class="flex Third-font max-w-2xl text-4xl mt-4 text-center sm:flex-row text-[#fdba74]">
-            <strong>97%</strong>
-          </p>
-        <article>
+          <hr>
           <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
-            delle persone che sono consce della propria identità: vive più a lungo e meglio
+            <div class="Third-font">97%</div>delle persone che sono consce della propria identità: vive più a lungo e meglio
           </p>
-        </article>
-        <article>
+          <hr>
           <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
             il nostro inconscio prende una decisione <span class="Third-Font font-bold text-[#5bd086]">7</span> secondi prima di quando le formuliamo consciamente e circa dieci secondi prima di eseguirle
           </p>
