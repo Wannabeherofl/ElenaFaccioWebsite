@@ -65,5 +65,5 @@
   color: black; }
   .vl {
     border-left: 2px solid #5bd086;
-    height: 500px;
+    height: auto;
   }
