@@ -25,7 +25,7 @@ useHead({
 
   <template>
       <header class="bg-white dark:bg-black text-black dark:text-white sm:sticky top-0 z-10 flex flex-col-reverse justify-center items-center">
-        <div class="flex mx-40 pt-16 pb-2">
+        <div class="flex sm:mx-40 sm:pt-16 pb-2">
               <nav id="Clicker" class="active hidden h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
               <NuxtLink class="link hover:opacity-90" to="/">
                 Home
@@ -37,7 +37,7 @@ useHead({
                 </NuxtLink>
               </nav>
               <div>
-                <h1 class="Main-font sm:text-7xl text-2xl font-medium text-center pl-10 pr-10">Elena Faccio</h1>
+                <h1 class="Main-font sm:text-7xl text-6xl font-medium text-center pl-10 pr-10">Elena Faccio</h1>
                 <hr>
                 <div class="Second-Font text-center text-sm sm:text-2xl">
                 Strategies for <span class="text-[#5bd086] dark:text-[#90FFB9]">individuality</span> and effective <span class="text-orange-300 dark:text-orange-300">identity</span> communication
