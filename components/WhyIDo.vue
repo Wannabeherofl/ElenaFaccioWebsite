@@ -4,7 +4,7 @@
     <main class="max-4-4xl mx-auto">
       <hr class="mx-auto bg-white dark:bg-black w-1/2 mb-12">
       <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8">
-        <h2 class="Third-font max-w-2xl text-8xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
+        <h2 class="Third-font max-w-2xl text-6xl font-bold text-center text-slate-900 dark:text-white">
             Perchè lo faccio?
           </h2>
         <div class="vl"></div>
@@ -16,6 +16,7 @@
             delle scelte di consumo sono prese in modo inconscio
           </p>
         </article>
+        <br>
         <p class="flex Third-font max-w-2xl text-4xl mt-4 text-center sm:flex-row text-[#fdba74]">
             <strong>97%</strong>
           </p>
