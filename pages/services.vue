@@ -1,10 +1,10 @@
 <template>
   <main class="dark:bg-black">
-    <Header />
+    <HeaderMain />
     <Info1 />
     <Info2 />
     <Info3 />
-    <footer />
+    <FooterMain />
   </main>
 </template>
 <script setup>

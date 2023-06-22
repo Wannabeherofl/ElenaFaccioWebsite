@@ -1,13 +1,13 @@
 <template>
   <div class="dark:bg-black">
-    <Header />
+    <HeaderMain />
     <HeadImage />
     <HomeInfo />
     <WhyIDo />
     <Identity />
     <KnowYourself />
     <HeroPage />
-    <footer />
+    <FooterMain />
   </div>
 </template>
 <script setup>

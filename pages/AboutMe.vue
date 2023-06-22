@@ -1,9 +1,9 @@
 <template>
     <div class="dark:bg-black">
-      <Header />
+      <HeaderMain />
       <Elements />
       <Aboutmemain />
-      <footer />
+      <FooterMain />
     </div>
   </template>
   <script setup>
