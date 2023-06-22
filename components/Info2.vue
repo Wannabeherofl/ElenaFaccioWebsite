@@ -9,10 +9,10 @@
           </h2>
         <div class="vl"></div>
         <article>
-            <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
-                <h2 class="Third-font max-w-2xl text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
+            <h2 class="Third-font max-w-2xl text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
                     Innovating    
-                </h2>
+            </h2>
+            <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
                 Business Identity communication strategies
                 <br>
                 Business Strategies
@@ -21,10 +21,10 @@
                 <br>
             </p>
           <hr>
-          <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
-            <h2 class="Third-font max-w-2xl text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
+          <h2 class="Third-font max-w-2xl text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
                 Teaching
             </h2>
+          <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
             <br>
             social/digital education 
             <br>
@@ -34,10 +34,10 @@
             <br>    
         </p>
           <hr>
-          <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
-            <h2 class="Third-font max-w-2xl text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
+          <h2 class="Third-font max-w-2xl text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
                 Marketing
             </h2>
+          <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
             Marketing analysis and activities
             <br>
             Communication strategy development
