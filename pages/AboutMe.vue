@@ -3,6 +3,7 @@
       <Header />
       <Elements />
       <Aboutmemain />
+      <footer />
     </div>
   </template>
   <script setup>

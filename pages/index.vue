@@ -7,6 +7,7 @@
     <Identity />
     <KnowYourself />
     <HeroPage />
+    <footer />
   </div>
 </template>
 <script setup>
