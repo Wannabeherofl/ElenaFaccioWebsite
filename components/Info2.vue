@@ -20,7 +20,7 @@
                 Designing Digitization Pathways
                 <br>
             </p>
-          <hr>
+            <hr class="mx-auto bg-white dark:bg-black w-1/2  mb-12">
           <h2 class="Third-font max-w-2xl text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
                 Teaching
             </h2>
@@ -33,7 +33,7 @@
             Provide guidelines for the use of key marketing tools
             <br>    
         </p>
-          <hr>
+        <hr class="mx-auto bg-white dark:bg-black w-1/2  mb-12">
           <h2 class="Third-font max-w-2xl text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
                 Marketing
             </h2>
@@ -48,7 +48,7 @@
             <br>
             Project manager for site, logo and product renewal
             </p>
-          <hr>
+            <hr class="mx-auto bg-white dark:bg-black w-1/2  mb-12">
         </article>
       </section>
     </main>
