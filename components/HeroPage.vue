@@ -4,7 +4,7 @@
     <main class="max-w-4xl mx-auto">
       <hr class="mx-auto bg-white dark:bg-black w-1/2">
       
-      <section id="reviews" class="p-6 pb-0 mb-0 my-12">
+      <section id="reviews" class="p-6 pb-0 mb-12 my-12">
         <h2 class="Third-font text-4xl font-bold text-center sm:text-5xl mb-6 text-slate-900 dark:text-white">
           Wonderful Clients
         </h2>

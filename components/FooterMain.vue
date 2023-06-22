@@ -2,7 +2,7 @@
 
 <template>
     <footer class="bg-neutral-900 text-center text-white">
-    <div class="container px-6 pt-6">
+    <div class="px-6 pt-6">
         <div class="mb-6 flex justify-center">
         <a
             href="#!"
