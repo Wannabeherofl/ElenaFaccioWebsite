@@ -3,7 +3,7 @@
 <template>
     <main class="max-4-4xl mx-auto">
       <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8 mb-12">
-        <div class="Main-font hidden sm:block text-7xl text-slate-900 dark:text-white">Contact Information</div>
+        <div class="mt-12 Main-font hidden sm:block text-7xl text-slate-900 dark:text-white">Contact Information</div>
       </section>
       <hr class="mx-auto bg-white dark:bg-black w-1/2">
       <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8 mb-12">
