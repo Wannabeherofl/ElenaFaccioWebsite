@@ -64,6 +64,7 @@
             Aiuto le persone a rendere conscia la loro <strong class="text-[#fdba74]">identità</strong> professionale e più efficaci le loro attività di marketing e comunicazione
           </p>
         </article>
+        <hr class="mx-auto bg-white dark:bg-black w-1/2  mb-12">
       </section>
     </main>
 </template>
