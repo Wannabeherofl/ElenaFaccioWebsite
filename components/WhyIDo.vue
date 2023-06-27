@@ -8,15 +8,15 @@
           </h2>
         <article class="vl rounded-xl dark:bg-[#121212]">
           <p class="Second-Font max-w-2xl text-3xl my-4 text-center sm:flex-row text-slate-700 dark:text-white">
-            <span class="Third-font text-[#7affab]">95%</span> delle scelte di consumo sono prese in modo inconscio
+            <span class="Third-font text-[#90FFB9]">95%</span> delle scelte di consumo sono prese in modo inconscio
           </p>
           <hr>
           <p class="Second-Font max-w-2xl text-3xl my-4 text-center sm:flex-row text-slate-700 dark:text-white">
-            <span class="Third-font text-[#7affab]">97%</span> delle persone che sono consce della propria <span class="Third-font text-[#fdba74]">identità</span>: vive più a lungo e meglio
+            <span class="Third-font text-[#90FFB9]">97%</span> delle persone che sono consce della propria <span class="Third-font text-[#fdba74]">identità</span>: vive più a lungo e meglio
           </p>
           <hr>
           <p class="Second-Font max-w-2xl text-3xl my-4 text-center sm:flex-row text-slate-700 dark:text-white">
-            il nostro inconscio prende una decisione <span class="Third-font text-[#7affab]">7</span> secondi prima di quando le formuliamo consciamente e circa dieci secondi prima di eseguirle
+            il nostro inconscio prende una decisione <span class="Third-font text-[#90FFB9]">7</span> secondi prima di quando le formuliamo consciamente e circa dieci secondi prima di eseguirle
           </p>
         </article>
       </section>
