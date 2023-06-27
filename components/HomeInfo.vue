@@ -3,7 +3,7 @@
 </script>
 <template>
     <main class="max-4-4xl mx-auto">
-      <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center mb-20">
+      <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center mb-40">
         <article>
           <h2 class="Third-font max-w-2xl text-4xl text-center sm:text-5xl text-slate-900 dark:text-white">
             Cosa Faccio
