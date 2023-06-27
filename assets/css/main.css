@@ -67,4 +67,6 @@
 .vl {
     border-left: 2px solid #5bd086;
     height: 100%;
+    margin-right: 5px;
+    margin-left: 5px;
 }
