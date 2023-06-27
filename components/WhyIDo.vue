@@ -7,7 +7,7 @@
         <h2 class="Third-font max-w-2xl text-6xl text-center text-slate-900 dark:text-white">
             Perchè lo faccio?
           </h2>
-        <div class="vl"></div>
+        <div class="vl w-1/2"></div>
         <article>
           <p class="Second-Font max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
             <span class="Third-font text-[#5bd086]">95%</span> delle scelte di consumo sono prese in modo inconscio
