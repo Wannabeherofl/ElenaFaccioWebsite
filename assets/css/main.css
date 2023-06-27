@@ -65,7 +65,7 @@
   color: black; }
 
 .vl {
-    border-left: 2px solid #5bd086;
+    border: 2px solid #5bd086;
     height: 100%;
     padding-left: 25px;
 }
