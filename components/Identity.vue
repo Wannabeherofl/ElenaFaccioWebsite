@@ -9,7 +9,7 @@
                 Io credo che l'<strong class="text-[#fdba74]">identità</strong> professionale sia la base per ogni idea business 
             </h2>
         </article>
-        <hr class="mx-auto bg-white dark:bg-black w-1/2  mb-12">
       </section>
+      <hr class="mx-auto bg-white dark:bg-black w-1/2  mb-12">
     </main>
 </template>
