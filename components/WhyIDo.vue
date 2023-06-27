@@ -3,7 +3,7 @@
 <template>
     <main class="max-4-4xl mx-auto">
       <hr class="mx-auto bg-white dark:bg-black w-1/2 mb-12">
-      <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8">
+      <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center mb-12">
         <h2 class="Third-font max-w-2xl text-6xl font-bold text-center text-slate-900 dark:text-white">
             Perchè lo faccio?
           </h2>
