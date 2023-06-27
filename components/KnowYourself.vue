@@ -9,7 +9,7 @@
         <h2 class="Third-font max-w-2xl text-6xl text-center text-slate-900 dark:text-white mr-4">
           skills direct behaviour for a known situation, but when you get into unknown situation, uncertain situation, we lean on our attributes. identity
           </h2>
-        <article class="vl rounded">
+        <article class="vl rounded-xl">
           <p class="Second-Font max-w-2xl text-3xl my-4 text-center sm:flex-row text-slate-700 dark:text-white">
             Know your <strong class="text-[#fdba74]">identity</strong> means: you and your team make clear the skills for known situations, and know your attributes in unknow situation.
           </p>
