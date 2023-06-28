@@ -64,10 +64,12 @@
   background-color: #ddd;
   color: black; }
 
-.vl {
-    border-left: 2px solid #90FFB9;
-    height: 100%;
-    padding-left: 25px;
+  @media (max-width: 640px) {
+    .vl {
+      border-left: 2px solid #90FFB9;
+      height: 100%;
+      padding-left: 25px;
+  }
 }
 @media (min-width: 640px) {
   .sm\:vl {
