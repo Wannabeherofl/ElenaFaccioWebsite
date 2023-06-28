@@ -71,9 +71,7 @@
 }
 
 .vl2 {
-  border-right: 2px solid #90FFB9;
-  border-left: 2px solid #90FFB9;
+  border-top: 2px solid #90FFB9;
   height: 100%;
-  padding-left: 25px;
-  padding-right: 25px;
+  padding-top: 25px;
 }
