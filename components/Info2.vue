@@ -9,7 +9,7 @@
             </h2>
         </article>
       </section>
-      <section id="hero" class="hero flex justify-center flex-col sm:flex-row p-6 items-center mb-4">
+      <section id="hero" class="hero flex justify-center flex-col sm:flex-row p-6 items-center">
         <h2 class="Third-font max-w-2xl text-4xl text-center sm:text-5xl text-slate-900 dark:text-white mr-4">
           Innovating
           </h2>
@@ -27,7 +27,7 @@
           </p>
         </article>
       </section>
-      <section id="hero" class="hero flex justify-center flex-col sm:flex-row p-6 items-center mb-4">
+      <section id="hero" class="hero flex justify-center flex-col sm:flex-row p-6 items-center">
     <h2 class="Third-font max-w-2xl text-4xl text-center sm:text-5xl text-slate-900 dark:text-white mr-4">
       Teaching
       </h2>
@@ -45,7 +45,7 @@
       </p>
     </article>
   </section>
-  <section id="hero" class="hero flex justify-center flex-col sm:flex-row p-6 items-center mb-4">
+  <section id="hero" class="hero flex justify-center flex-col sm:flex-row p-6 items-center">
     <h2 class="Third-font max-w-2xl text-4xl text-center sm:text-5xl text-slate-900 dark:text-white mr-4">
       Marketing
       </h2>
@@ -61,9 +61,11 @@
       <p class="Second-Font max-w-2xl text-3xl my-4 text-center sm:flex-row text-slate-700 dark:text-white">
         Access to my network of professionals
       </p>
+      <hr>
       <p class="Second-Font max-w-2xl text-3xl my-4 text-center sm:flex-row text-slate-700 dark:text-white">
         Tailored back-office services
       </p>
+      <hr>
       <p class="Second-Font max-w-2xl text-3xl my-4 text-center sm:flex-row text-slate-700 dark:text-white">
         Project manager for site, logo and product renewal
       </p>
