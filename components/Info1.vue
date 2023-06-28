@@ -2,7 +2,14 @@
 
 <template>
     <main class="max-4-4xl mx-auto">
-      <section id="hero" class="hero flex justify-center flex-col sm:flex-row p-6 items-center mb-40">
+      <section id="hero" class="hero flex flex-col justify-center sm:flex-row p-6 items-center mb-4">
+        <article>
+            <h2 class="rounded-xl vl3 Third-font max-w-2xl text-3xl text-center sm:text-5xl text-slate-900 dark:text-white">
+              Who do I do it with?
+            </h2>
+        </article>
+      </section>
+      <section id="hero" class="hero flex justify-center flex-col sm:flex-row p-6 items-center mb-4">
         <h2 class="Third-font max-w-2xl text-4xl text-center sm:text-5xl text-slate-900 dark:text-white mr-4">
           With those approaching digital
           </h2>
