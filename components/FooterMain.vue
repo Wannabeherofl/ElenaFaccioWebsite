@@ -109,7 +109,7 @@
         class="p-4 text-center"
         style="background-color: rgba(0, 0, 0, 0.2)">
         © 2023 Copyright:
-        <a class="text-whitehite" href="https://tailwind-elements.com/"
+        <a class="text-whitehite" href="/"
         >Elena Faccio</a
         >
     </div>
