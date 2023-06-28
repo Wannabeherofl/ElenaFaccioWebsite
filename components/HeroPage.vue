@@ -7,7 +7,7 @@
         <h2 class="Third-font text-4xl font-bold text-center sm:text-5xl mb-6 text-slate-900 dark:text-white">
           Wonderful Clients
         </h2>
-        <ul class="list-none mx-auto mt-12 flex flex-row items-center sm:gap-8 gap-4">
+        <ul class="list-none mx-auto mt-12 flex flex-row sm:flex-col items-center sm:gap-8 gap-4">
           <li class="w-1/2 flex items-center border border-solid border-slate-900 dark:border-gray-100 bg-white dark:bg-[#121212] py-1 px-1 rounded">
             <img class="mb-6 rounded" src="../assets/boxcamilla.jpg" alt="Camilla">
             <h3 class="Second-Font text-3xl text-center text-slate-900 dark:text-white">Camilla</h3>
