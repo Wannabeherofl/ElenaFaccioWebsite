@@ -78,6 +78,13 @@
     padding-left: 25px;
   }
 }
+@media (min-width: 1280px) {
+  .xl\:vl {
+    border-left: 2px solid #90FFB9;
+    height: 100%;
+    padding-left: 25px;
+  }
+}
 @media (min-width: 640px) {
   .sm\:vl2 {
     border-top: 2px solid #90FFB9;
@@ -89,4 +96,11 @@
   border-top: 2px solid #90FFB9;
   height: 100%;
   padding-top: 25px;
+}
+@media (min-width: 1280px) {
+  .xl\:vl2 {
+    border-top: 2px solid #90FFB9;
+    height: 100%;
+    padding-top: 25px;
+  }
 }
