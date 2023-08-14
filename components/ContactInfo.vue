@@ -7,7 +7,7 @@
       </section>
       <hr class="mx-auto bg-white dark:bg-black w-1/2">
       <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8 mb-12">
-        <img src="../assets\ElenaNice.png" class="mb-6 h-72 rounded-full w-auto">
+        <img src="..\assets\ProfilePicture.jpg" class="mb-6 h-72 rounded-full w-auto">
         <article>
           <h2 class="Third-font max-w-md text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
             Email Address
