@@ -3,7 +3,6 @@
     <HeaderMain />
     <Info1 />
     <Info2 />
-    <Info3 />
     <FooterMain />
   </main>
 </template>

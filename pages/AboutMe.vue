@@ -1,7 +1,6 @@
 <template>
     <div class="dark:bg-black">
       <HeaderMain />
-      <Elements />
       <Aboutmemain />
       <FooterMain />
     </div>
