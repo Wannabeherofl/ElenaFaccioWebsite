@@ -3,7 +3,7 @@
 </script>
 <template>
 <header>
-    <nav class="align-center dropdown static mx-auto md:p-4 pt-4 px-4 md:flex justify-between overflow-auto row bg-white dark:bg-black text-black dark:text-white">
+    <nav class="align-center dropdown static mx-auto md:p-4 pt-4 px-4 justify-between overflow-auto row bg-white dark:bg-black text-black dark:text-white">
         <div class="md:flex invisible md:visible gap-4 px-auto">
             <NuxtLink to="/" class="Second-Font text-2xl">Home</NuxtLink>
             <NuxtLink to="/about" class="Second-Font text-2xl">About</NuxtLink>
