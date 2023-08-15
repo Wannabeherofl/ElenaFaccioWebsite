@@ -24,8 +24,8 @@
 <script>
 function toggleDescriptor(language) {
     let description = document.getElementById("description");
-    if (language === "Korean") {
-        description.innerHTML = "Show Korean Text";
+    if (language === "Italian") {
+        description.innerHTML = "Show Italian Text";
     }
     else {
         description.innerHTML = "Show English Text";
