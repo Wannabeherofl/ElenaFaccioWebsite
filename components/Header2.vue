@@ -2,8 +2,8 @@
 <script lang="ts" setup>
 </script>
 <template>
-<header class="bg-900 shadow-sm border-b-[0.2px] border-[#5f8dd3]">
-    <nav class="DMSFont dropdown md:container-fluid mx-auto md:p-4 pt-4 px-4 md:flex justify-between overflow-auto row">
+<header>
+    <nav class="dropdown md:container-fluid mx-auto md:p-4 pt-4 px-4 md:flex justify-between overflow-auto row bg-white dark:bg-black text-black dark:text-white">
         <div class="dropdown-content md:invisible" id="myDropdown">
             <NuxtLink to="/" class="btn text-xl">Home</NuxtLink>
             <NuxtLink to="/about" class="btn text-xl">About</NuxtLink>
