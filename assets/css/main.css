@@ -59,8 +59,10 @@
   right: 0;
   top: 0;
 }
-.NavBtn {
-  @apply hover:#fdba74;
+@layer components{
+  .NavBtn {
+    @apply hover:#fdba74;
+  }
 }
 .topnav a:hover {
   background-color: #ddd;
