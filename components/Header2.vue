@@ -10,7 +10,7 @@
             <div>
                 <h1 class="Main-font sm:text-7xl text-6xl font-medium text-center pl-10 pr-10">Elena Faccio</h1>
                 <hr>
-                <div class="Second-font text-center text-sm sm:text-2xl">
+                <div class="Second-Font text-center text-sm sm:text-2xl">
                 Strategies for <span class="text-[#7affab] dark:text-[#90FFB9]">individuality</span> and effective <span class="text-orange-300 dark:text-orange-300">identity</span> communication
                 </div>
             </div>
