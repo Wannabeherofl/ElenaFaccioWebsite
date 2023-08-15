@@ -4,7 +4,7 @@
 <template>
 <header>
     <nav class="align-center dropdown static mx-auto md:p-4 pt-4 px-4 md:flex justify-between overflow-auto row bg-white dark:bg-black text-black dark:text-white">
-        <ul class="md:flex invisible md:visible gap-4 px-auto">
+        <div class="md:flex invisible md:visible gap-4 px-auto">
             <NuxtLink to="/" class="Second-Font text-2xl">Home</NuxtLink>
             <NuxtLink to="/about" class="Second-Font text-2xl">About</NuxtLink>
             <div class="static mx-auto">
@@ -16,7 +16,7 @@
             </div>
             <NuxtLink to="/contact" class="Second-Font text-2xl">Contact</NuxtLink>
             <NuxtLink to="/contact" class="Second-Font text-2xl">Services</NuxtLink>
-        </ul>
+        </div>
     </nav>
 </header>
 </template>
