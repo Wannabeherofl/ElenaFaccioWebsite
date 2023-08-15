@@ -3,16 +3,6 @@
 <template>
     <footer class="bg-black text-center text-white">
     <div class="px-6 pt-6">
-        <form>
-    <label for="lang-switch">
-        <span lang="it">Language</span>
-        <span lang="en">Language</span>
-    </label>
-    <select id="lang-switch">
-        <option value="en">English</option>
-        <option value="it" selected>Italian</option>
-    </select>
-    </form>
         <div class="mb-6 flex justify-center">
         <a
             href="#!"
@@ -113,6 +103,8 @@
         </a>
         </div>
     </div>
+    <li onclick="toggleLanguage('English')"><a href="#">English</a></li>
+    <li onclick="toggleLanguage('English')"><a href="#">Italian</a></li>
 
     <!--Copyright section-->
     <div
