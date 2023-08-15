@@ -4,12 +4,7 @@
 <template>
 <header>
     <nav class="dropdown md:container-fluid mx-auto md:p-4 pt-4 px-4 md:flex justify-between overflow-auto row bg-white dark:bg-black text-black dark:text-white">
-        <div class="dropdown-content md:invisible" id="myDropdown">
-            <NuxtLink to="/" class="btn text-xl">Home</NuxtLink>
-            <NuxtLink to="/about" class="btn text-xl">About</NuxtLink>
-            <NuxtLink to="/contact" class="btn text-xl">Contact</NuxtLink>
-        </div>
-        <ul class="md:flex invisible md:visible gap-4 pr-32">
+        <ul class="md:flex invisible md:visible gap-4 px-auto">
             <NuxtLink to="/" class="Second-font text-2xl">Home</NuxtLink>
             <NuxtLink to="/about" class="Second-font text-2xl">About</NuxtLink>
             <div class="static mx-auto">
