@@ -7,7 +7,7 @@
         <div class="md:flex invisible md:visible gap-4 px-auto">
             <NuxtLink to="/" class="pt-4 Second-Font text-2xl ml-auto static">Home</NuxtLink>
             <NuxtLink to="../AboutMe" class="pt-4 Second-Font text-2xl static">About Me</NuxtLink>
-            <div class="static">
+            <div>
                 <h1 class="Main-font sm:text-7xl text-6xl font-medium text-center pl-10 pr-10">Elena Faccio</h1>
                 <hr>
                 <div class="Second-font text-center text-sm sm:text-2xl">
