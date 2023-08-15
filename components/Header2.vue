@@ -10,8 +10,8 @@
             <NuxtLink to="/contact" class="btn text-xl">Contact</NuxtLink>
         </div>
         <ul class="md:flex invisible md:visible gap-4 pr-32">
-            <NuxtLink to="/" class="btn text-xl">Home</NuxtLink>
-            <NuxtLink to="/about" class="btn text-xl">About</NuxtLink>
+            <NuxtLink to="/" class="Second-font text-2xl">Home</NuxtLink>
+            <NuxtLink to="/about" class="Second-font text-2xl">About</NuxtLink>
             <div class="absolute">
                 <h1 class="Main-font sm:text-7xl text-6xl font-medium text-center pl-10 pr-10">Elena Faccio</h1>
                 <hr>
@@ -19,8 +19,8 @@
                 Strategies for <span class="text-[#7affab] dark:text-[#90FFB9]">individuality</span> and effective <span class="text-orange-300 dark:text-orange-300">identity</span> communication
                 </div>
             </div>
-            <NuxtLink to="/contact" class="btn text-xl">Contact</NuxtLink>
-            <NuxtLink to="/contact" class="btn text-xl">Services</NuxtLink>
+            <NuxtLink to="/contact" class="Second-font text-2xl">Contact</NuxtLink>
+            <NuxtLink to="/contact" class="Second-font text-2xl">Services</NuxtLink>
         </ul>
     </nav>
 </header>
