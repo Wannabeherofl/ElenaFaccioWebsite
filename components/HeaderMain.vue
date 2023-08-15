@@ -25,18 +25,18 @@ useHead({
 
   <template>
       <header class="bg-white dark:bg-black text-black dark:text-white sm:sticky top-0 z-10 flex flex-col-reverse justify-center items-center">
-        <div class="flex sm:mx-40 sm:pt-16 pb-2">
+        <div class="flex sm:mx-auto sm:pt-16 pb-2">
               <nav id="Clicker" class="active hidden h-16 Second-Font sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
               <NuxtLink class="link hover:opacity-90" to="/">
                 Home
               </NuxtLink>
               </nav>
               <nav id="Clicker" class="h-16 Second-Font hidden sm:block space-x-8 text-2xl pr-6 pl-6" @click="menuTrigger()" aria-label="main">
-                <NuxtLink href="../AboutMe" class="h-16 w-16 link hover:opacity-90">
+                <NuxtLink href="../AboutMe" class="h-16 link hover:opacity-90">
                   About Me
                 </NuxtLink>
               </nav>
-              <div>
+              <div class="absolute">
                 <h1 class="Main-font sm:text-7xl text-6xl font-medium text-center pl-10 pr-10">Elena Faccio</h1>
                 <hr>
                 <div class="Second-Font text-center text-sm sm:text-2xl">

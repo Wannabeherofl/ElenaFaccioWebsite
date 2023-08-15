@@ -1,6 +1,6 @@
 <template>
   <div class="dark:bg-black">
-    <HeaderMain />
+    <Header2 />
     <HeadImage />
     <HomeInfo />
     <WhyIDo />
