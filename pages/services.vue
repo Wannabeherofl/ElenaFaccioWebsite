@@ -1,6 +1,6 @@
 <template>
   <main class="dark:bg-black">
-    <HeaderMain />
+    <Header2 />
     <Info1 />
     <Info2 />
     <FooterMain />
