@@ -1,13 +1,13 @@
 <script setup></script>
 
 <template>
-    <footer class="bg-black text-center text-white">
+    <footer class="dark:bg-black bg-white text-center text-black dark:text-white border-black border-2">
     <div class="px-6 pt-6">
         <div class="mb-6 flex justify-center">
         <a
             href="#!"
             type="button"
-            class="m-1 h-9 w-9 rounded-full border-2 border-white uppercase leading-normal text-white transition duration-150 ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0"
+            class="m-1 h-9 w-9 rounded-full border-2 border-black dark:border-white uppercase leading-normal dark:text-white transition duration-150 ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0"
             data-te-ripple-init
             data-te-ripple-color="light">
             <svg 
@@ -21,7 +21,7 @@
         <a
             href="#!"
             type="button"
-            class="m-1 h-9 w-9 rounded-full border-2 border-white uppercase leading-normal text-white transition duration-150 ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0"
+            class="m-1 h-9 w-9 rounded-full border-2 border-black dark:border-white uppercase leading-normal dark:text-white transition duration-150 ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0"
             data-te-ripple-init
             data-te-ripple-color="light">
             <svg
@@ -37,7 +37,7 @@
         <a
             href="#!"
             type="button"
-            class="m-1 h-9 w-9 rounded-full border-2 border-white uppercase leading-normal text-white transition duration-150 ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0"
+            class="m-1 h-9 w-9 rounded-full border-2 border-black dark:border-white uppercase leading-normal dark:text-white transition duration-150 ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0"
             data-te-ripple-init
             data-te-ripple-color="light">
             <svg
@@ -53,10 +53,9 @@
     </div>
     <!--Copyright section-->
     <div
-        class="p-4 text-center"
-        style="background-color: rgba(0, 0, 0, 0.2)">
+        class="p-4 text-center dark:text-white">
         © 2023 Copyright:
-        <a class="text-whitehite" href="/"
+        <a class="dark:text-white" href="/"
         >Elena Faccio</a
         >
     </div>
