@@ -14,9 +14,9 @@
           </h2>
           <p class="Second-Font max-w-2xl text-2xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
             Hi! My name is Elena and I am a Marketing and strategy consultant. I am passionate about individuality and enjoy working on project with people.<br>
-My passion about marketing and comunication started at very early age, I remember me at <span class="Main-font text-[#fdba74]">6</span> wondering about what is it and where are the roots for it. While studiend and researching about identity I started my volunteer carrer at <span class="text-[#fdba74]">12</span> and that made me understand that what i want to do in life is understand what people want need and help them to get it. that is why i chosed the University degree in Marketing Management.
+My passion about marketing and comunication started at very early age, I remember me at <span class="text-bold Third-font text-[#fdba74]">6</span> wondering about what is it and where are the roots for it. While studiend and researching about identity I started my volunteer carrer at <span class="text-bold Third-font text-[#fdba74]">12</span> and that made me understand that what i want to do in life is understand what people want need and help them to get it. that is why i chosed the University degree in Marketing Management.
 After that I continued studing attending a class about tourism field focused on territory comunication and tourist welcoming.
-In <span class="Main-font text-[#fdba74]">2023</span> I ejoyed the online class about Consumer Neuroscience & Neuromarketing.
+In <span class="Third-font text-[#fdba74] text-bold">2023</span> I ejoyed the online class about Consumer Neuroscience & Neuromarketing.
           </p>
         </article>
       </section>
