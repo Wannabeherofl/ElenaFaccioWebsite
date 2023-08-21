@@ -8,8 +8,8 @@
               Consultant activities
             </h2>
             <p language="English" class="vl3 rounded-xl Second-Font max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
-              Taylormade projects: if you like the way i work and my work ethics but you do not need specifically marketing consult (such as someone who help you with extraload work) you can send an email to work on other projects too            </p>
-            <div class="max-w-2xl vl3"></div>
+              Taylormade projects: if you like the way i work and my work ethics but you do not need specifically marketing consult (such as someone who help you with extraload work) you can send an email to work on other projects too
+            </p>
         </article>
       </section>
       <section id="hero" class="hero flex justify-center flex-col sm:flex-row p-6 items-center">
