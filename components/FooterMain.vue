@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-    <footer class="dark:bg-black bg-white text-center text-black dark:text-white border-black border-2">
+    <footer class="dark:bg-black bg-white text-center text-black dark:text-white border-[#7affab] black border-1">
     <div class="px-6 pt-6">
         <div class="mb-6 flex justify-center">
         <a
