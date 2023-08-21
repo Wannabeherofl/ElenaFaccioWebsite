@@ -5,8 +5,10 @@
       <section id="hero" class="hero flex flex-col justify-center sm:flex-row p-6 items-center mb-4">
         <article>
             <h2 class="rounded-xl Third-font max-w-2xl text-3xl text-center sm:text-5xl text-slate-900 dark:text-white">
-              How do I do it?
+              Consultant activities
             </h2>
+            <p language="English" class="vl3 rounded-xl Second-Font max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
+              Taylormade projects: if you like the way i work and my work ethics but you do not need specifically marketing consult (such as someone who help you with extraload work) you can send an email to work on other projects too            </p>
             <div class="max-w-2xl vl3"></div>
         </article>
       </section>
