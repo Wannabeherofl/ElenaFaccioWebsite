@@ -5,6 +5,7 @@
     <HomeInfo />
     <WhyIDo />
     <Identity />
+    <Skills />
     <KnowYourself />
     <HeroPage />
     <FooterMain />
