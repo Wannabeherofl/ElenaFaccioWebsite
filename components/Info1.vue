@@ -12,7 +12,7 @@
       <section  class="hero flex flex-col justify-center sm:flex-row p-6 items-center mb-4">
         <article>
           <div class="max-w-2xl vl3">
-            <img src="../assets\Pexels2.jpg" class="flex rounded-full border-6 border-orange-300 mb-6 w-72 h-72">
+            <img src="../assets\Pexels2.jpg" class="flex rounded-full border-6 border-orange-300 mb-6 w-72">
           </div>
         </article>
       </section>
