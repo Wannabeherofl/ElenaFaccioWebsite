@@ -7,7 +7,7 @@
             <h2 class="Third-font max-w-2xl text-4xl text-center sm:text-5xl text-slate-900 dark:text-white">
               Who do I do it with?
             </h2>
-            <div class="max-w-2xl vl3"></div>
+            <div class="max-w-2xl vl3"><img src="../assets\pexels-karolina-grabowska-4195328 (1).jpg" class="mr-20 flex rounded-full border-6 border-orange-300 mb-6 w-72 h-72"></div>
         </article>
       </section>
       <section id="hero" class="hero flex justify-center flex-col sm:flex-row p-6 items-center mb-20">
