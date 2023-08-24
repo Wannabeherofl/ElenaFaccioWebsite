@@ -12,14 +12,14 @@
           <h2 class="Third-font max-w-md text-4xl text-center sm:text-5xl text-slate-900 dark:text-white">
             Email Address
           </h2>
-          <p class="Second-Font ml-6 max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white mb-12">
+          <p class="Third-font ml-6 max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white mb-12">
             <a href="mailto:elena_faccio@live.it">elena_faccio@live.it</a>
           </p>
           <hr class="mx-auto bg-white dark:bg-black w-1/2 mb-12">
           <h2 class="Third-font max-w-auto text-4xl text-center sm:text-5xl sm:flex-row text-slate-900 dark:text-white">
             Phone Number
           </h2>
-          <p class="Second-Font ml-6 max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
+          <p class="Third-font ml-6 max-w-2xl text-3xl mt-4 text-center sm:flex-row text-slate-700 dark:text-white">
             <a>+39 346 7587566</a>
           </p>
         </article>
