@@ -5,7 +5,7 @@
       <section id="hero" class="hero flex flex-col justify-center sm:flex-row p-6 items-center mb-8">
         <article class="vl4 rounded-xl dark:bg-[#121212]">
           <p class="Second-Font max-w-2xl text-3xl my-4 text-center sm:flex-row text-slate-700 dark:text-white">
-            <span class="Third-font text-[#90FFB9]">95%</span>Of consumer choices are taken subconsciously
+            <span class="Third-font text-[#90FFB9]">95%</span> Of consumer choices are taken subconsciously
           </p>
           <hr>
           <p class="Second-Font max-w-2xl text-3xl my-4 text-center sm:flex-row text-slate-700 dark:text-white">
