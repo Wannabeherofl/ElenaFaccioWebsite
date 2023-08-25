@@ -3,10 +3,10 @@
     <Header2 />
     <HeadImage />
     <HomeInfo />
-    <WhyIDo />
     <Identity />
     <Skills />
     <KnowYourself />
+    <WhyIDo />
     <HeroPage />
     <FooterMain />
   </div>
