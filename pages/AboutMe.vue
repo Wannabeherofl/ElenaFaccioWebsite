@@ -1,7 +1,7 @@
 <template>
     <div class="dark:bg-black">
       <Header2 />
-      <Aboutmemain />
+      <About />
       <FooterMain />
     </div>
   </template>
