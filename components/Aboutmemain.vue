@@ -5,7 +5,6 @@
       <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8 mb-12">
         <div class="Main-font hidden sm:block text-7xl"></div>
       </section>
-      <hr class="mx-auto bg-white dark:bg-black w-1/2">
       <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8 mb-12">
         <img src="../assets\IMG-20200704-WA00012.jpg" class="mb-6 h-72 rounded w-auto">
         <article>
