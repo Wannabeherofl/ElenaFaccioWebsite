@@ -24,7 +24,7 @@ In <span class="Third-font text-[#fdba74] text-bold">2023</span> I ejoyed the on
       <section id="hero" class="hero flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8 mb-12  ml-60">
         <img src="../assets/Silly.png" class="flex rounded-full border-6 border-orange-300 mb-6 h-72">
         <article class="sm:w-1/2">
-          <h2 class="Third-font max-w-auto text-4xl font-bold text-center sm:text-5xl text-slate-900 dark:text-white">
+          <h2 class="Third-font max-w-auto text-4xl font-bold sm:text-5xl text-slate-900 dark:text-white">
             Hobbies
           </h2>
           <p class="Second-Font max-w-md text-2xl mt-4 sm:flex-row text-slate-700 dark:text-white">

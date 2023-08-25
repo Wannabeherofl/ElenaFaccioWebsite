@@ -87,3 +87,10 @@
     height: 100%;
     padding-top: 25px;
 }
+@media (min-width: 640px) {
+  .vl4 {
+    border-right: 2px solid #90FFB9;
+    height: 100%;
+    padding-left: 25px;
+}
+}
