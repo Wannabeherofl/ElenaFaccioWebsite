@@ -18,10 +18,6 @@
           <p class="Second-Font max-w-2xl text-3xl my-4 text-center sm:flex-row text-slate-700 dark:text-white">
             If you know your individuality you can comunicate it better, and build trust about your identity to others.
           </p>
-          <hr>
-          <p class="Second-Font max-w-2xl text-3xl my-4 text-center sm:flex-row text-slate-700 dark:text-white">
-            Trust is more than just a feeling, it is a belief. an feeling is just a human emotion justified, a belief is a human emotion justified and rationalized.
-          </p>
         </article>
       </section>
     </main>
