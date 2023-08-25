@@ -13,7 +13,7 @@
             <br>And that what we will do, understand and rationalize your identity.
           </p>
         </article>
-        <img src="../assets\Pexels3.jpg" class="mr-20 flex rounded-full border-6 border-orange-300 mb-6 w-auto h-72">
+        <img src="../assets\Pexels3.jpg" class="ml-20 flex rounded-full border-6 border-orange-300 mb-6 w-auto h-72">
       </section>
     </main>
 </template>
