@@ -5,8 +5,8 @@
     <HomeInfo />
     <Skills />
     <KnowYourself />
-    <WhyIDo2 />
     <WhyIDo />
+    <WhyIDo2 />
     <HeroPage />
     <FooterMain />
   </div>
